@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&background=D71BD300&center=true&width=435&lines=Hi+There%2C+welcome+to+my+github+page.+;A+long+way+of+software+development+with;PHP%2C+C%23%2C+Python%2C+TypeScript%2C+Go+go+go...;Creeps+and+panckaces+are+included)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&duration=4000&pause=1000&color=F51AF7&background=AAD5D700&vCenter=true&width=1000&lines=Hi+There%2C+welcome+to+my+Github.+;I+make+delicious+and+thin+crepes+with+ice-cream;Have+a+long+way+in+software+development+using%3A;C%23%2C+PHP%2C+Python%2C+TypeScript%2C+Java%2C+and+Go+go+go...)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaddek/jaddek/output/github-contribution-grid-snake-dark.svg">
